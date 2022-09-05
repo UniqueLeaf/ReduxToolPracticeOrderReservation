@@ -1,4 +1,4 @@
-# Getting Started with Laith Academy
+# This project was made with Laith Academy
 
 Video tutorial available: 
 https://www.youtube.com/watch?v=jR4fagDcvrc
